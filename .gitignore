@@ -1,0 +1,9 @@
+.DS_Store
+
+node_modules/
+logs/
+dist/
+bundler/
+
+*.log
+!example.log
